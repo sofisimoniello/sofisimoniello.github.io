@@ -1,0 +1,55 @@
+h1{
+	display: flex;
+	color: #8d847c;
+	font-size: 5rem;
+	font-weight: 700; 
+	letter-spacing: 8px;
+	margin-bottom: 2rem;
+}
+
+<h1 style="text-align:center;white-space:pre-wrap;">No partner left behind</h1>
+
+<h1> Sofia Simoniello</h1>
+
+<h1 style="text-align:center;white-space:pre-wrap;" class="">No partner left behind</h1>
+
+
+    font-family: Montserrat;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 14px;
+    letter-spacing: 0em;
+    line-height: 1.7em;
+    text-transform: none;
+    color: rgba(40,26,23,.6)
+
+
+font-size: 2rem;
+	color: black;
+	line-height: 5rem;
+	margin-bottom: 
+
+
+font-family: Montserrat;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 2rem;
+    letter-spacing: 0em;
+    line-height: 5rem;
+    text-transform: none;
+    color: rgba(40,26,23,.6)
+    margin-bottom:5rem;
+
+font-family: Montserrat;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 18px;
+    letter-spacing: 0em;
+    line-height: 1.5em;
+    text-transform: none;
+
+color: 777
+	font-size 4rem;
+	font-weight: 400;
+
+<a href="/request-a-demo" class="Header-nav-item">REQUEST A DEMO</a>

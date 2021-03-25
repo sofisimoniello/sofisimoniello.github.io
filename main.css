@@ -1,0 +1,120 @@
+
+*{
+	margin: 0;
+	padding:0;
+	box-sizing: border-box;
+}
+html{
+
+	font-size: 10px
+	;
+}
+
+body {
+	
+	font-family: 'Montserrat', sans-serif;
+	background-image: url(../images/35.jpg);
+	height: 100vh;
+	background-size: cover;
+	background-position: center
+
+
+}
+
+.container{
+	max-width: 1100px;
+	margin: 0 auto;
+	padding: 0 3rem;
+	margin-top: 4rem;
+	text-align: center;
+}
+
+.navbar-dark .navbar-nav .nav-link{
+	color: black;
+	font-weight:700;
+	text-transform: uppercase;
+	letter-spacing: 1px;
+	font-size: 14px;
+	transition: 0.5s all;
+	text-align: right;
+
+}
+.navbar-dark .navbar-nav .nav-link.active{
+	color: 		#FAF0E6 !important;
+}
+.navbar-dark .navbar-nav .nav-link:hover{
+	color: 		#FAF0E6
+}
+.navbar{
+	padding: 15px 0;
+	background: transparent;
+	text-orientation: right;
+}
+
+.nav-scroll{
+	background: #fff
+	box-shadow:0 1px 8px 3px rgba(0,0,0,0.05);
+	transition: 0.5s all;
+}
+.nav-scroll .navbar-nav li a{
+	color: #333 !important;
+}
+.navbar .navbar-toggler span{
+	color: #fff;
+}
+
+.navbar .navbar-toggler{
+	border:none;
+}
+
+h1 {font-style: normal;
+   font-size: 25px;
+   letter-spacing: .55em;
+   line-height: 1.5em;
+   text-transform: uppercase;
+   text-rendering: optimizeLegibility;}
+
+
+h2{	font-family: Montserrat;
+	font-weight: 400;
+	font-style: normal;
+	font-size: 18px;
+	letter-spacing: 0em;
+    line-height: 1.5em;
+	text-transform: none;
+ 
+}
+.image{
+	margin-top: 5rem;
+	margin-bottom: 2.5rem;
+}
+
+
+
+p {
+	font-family: Montserrat;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 2rem;
+    letter-spacing: 0em;
+    line-height: 5rem;
+    text-transform: none;
+    color: rgba(40,26,23,.6)
+    margin-bottom:5rem;
+}
+
+
+.btn{
+	display: inline-block;
+	padding: 2.7rem 7.5rem;
+	background: white;
+	font-size: 2rem;
+	text-decoration: none;
+	color: grey;
+	border-radius: 10px;
+	transition: background 0.5s;
+}
+
+.btn:hover {
+color: #dadadada;
+}
